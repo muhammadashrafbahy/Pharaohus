@@ -1,0 +1,20 @@
+[
+{ "empName": "employee1",
+  "rankID": 0,
+  "bdate": null,
+  "jobDate": null,
+  "address": "address1",
+  "phone": "01009126166",
+  "socialState": "single",
+  "headQuarter": true,
+        "password": "passwd1"},
+  { "empName": "employee2",
+    "rankID": 10,
+    "bdate": null,
+    "jobDate": null,
+    "address": "address2",
+    "phone": "01553179678",
+    "socialState": "single",
+    "headQuarter": true,
+    "password": "passwd2"}
+]
